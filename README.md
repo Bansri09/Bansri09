@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Bansri09/Bansri09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Bansri Patel 👋
+# Hello, I'm Bansri Patel 
 
 Welcome to my GitHub profile! I'm currently enrolled at the University of Toronto, pursuing a degree in **Data Analytics and Visualizations**.
 
