@@ -69,6 +69,9 @@ Here's a list of the tools and technologies I've learned and am currently workin
   <img src="https://github.com/user-attachments/assets/fbfd5f0e-aced-4676-b526-31b1da91601b" alt="leaflet" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/5c191119-17ec-4433-acbb-4229b92c02aa" alt="Feature-Photo-Tableau" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/81baaa7e-fb8c-49f0-b682-89ab146d9a65" alt="R" width="40" height="40"/>
+  ![leaflett](https://github.com/user-attachments/assets/81fa38a0-3ec4-4692-87ee-68dfbe54845d)
+  <img src="https://github.com/user-attachments/assets/81fa38a0-3ec4-4692-87ee-68dfbe54845d" alt="leaflet" width="40" height="40"/>
+
 
 </p>
 
