@@ -63,9 +63,8 @@ Here's a list of the tools and technologies I've learned and am currently workin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/fbfd5f0e-aced-4676-b526-31b1da91601b" alt="leaflet" width="40" height="40"/>
-    <img src="https://github.com/user-attachments/assets/81baaa7e-fb8c-49f0-b682-89ab146d9a65" alt="R" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/81baaa7e-fb8c-49f0-b682-89ab146d9a65" alt="R" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/81fa38a0-3ec4-4692-87ee-68dfbe54845d" alt="leaflet" width="40" height="40"/>
 
 </p>
