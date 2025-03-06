@@ -68,6 +68,9 @@ Here's a list of the tools and technologies I've learned and am currently workin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+  <!-- Excel Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Excel_Logo_2013.svg" alt="excel" width="40" height="40"/>
+
 </p>
 
 <!--
