@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm currently enrolled at the University of Toronto, pursuing a degree in **Data Analytics and Visualizations**.
 
+
 ## 🎓 About Me
 - 📍 **University of Toronto** student specializing in **Data Analytics** and **Visualizations**.
 - Passionate about **Data Science**, **Machine Learning**, and **Data Engineering**.
@@ -71,7 +72,9 @@ Here's a list of the tools and technologies I've learned and am currently workin
   <img src="https://github.com/user-attachments/assets/5c191119-17ec-4433-acbb-4229b92c02aa" alt="Feature-Photo-Tableau" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/81baaa7e-fb8c-49f0-b682-89ab146d9a65" alt="R" width="40" height="40"/>
 
-  
+    <img src="https://github.com/user-attachments/assets/25072f6e-db95-467a-ad43-549ffb0c32c7" alt="leaflet" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/94f4d225-8aad-4f99-9781-356763eae781" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/c0ef147f-d02e-4d7c-9200-008b93888d6b" alt="tableau" width="40" height="40"/>
 
 </p>
 
