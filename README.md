@@ -56,8 +56,9 @@ Here's a list of the tools and technologies I've learned and am currently workin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
+<img src="https://github.com/user-attachments/assets/49fd8cf7-9de6-4eee-abd0-0323978447e0" alt="excel_vba" width="40" height="40"/>
 
-  ![excel_vba](https://github.com/user-attachments/assets/49fd8cf7-9de6-4eee-abd0-0323978447e0)
+
 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/>
